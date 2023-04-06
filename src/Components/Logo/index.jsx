@@ -1,5 +1,5 @@
 import { Container } from './styles'
-import logo from '../../../assets/logo.svg'
+import logo from '../../assets/logo.svg'
 
 export function Logo(){
     return(
